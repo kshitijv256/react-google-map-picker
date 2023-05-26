@@ -15,6 +15,10 @@ npm install --save react-google-map-picker
 React 16: version <=1.1.1
 
 React 17: version 1.2.0
+
+Now usable with React 18: 1.2.3
+
+
 ## Demo
 
 [DEMO](https://phamtung1.github.io/react-google-map-picker/)
